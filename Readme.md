@@ -7,12 +7,10 @@ This is a single-page application that details my portfolio as a developer. My p
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+If one were to run this application locally, one must run an npm build and they will be able to access the site at local host 3001.
 
 ## Usage
-
-The site is deployed on Nelify: 
-Github: 
+Github: https://github.com/AngelaFig/React-Portfolio
 
 ![alt text](assets/images/screenshot.png)
 
